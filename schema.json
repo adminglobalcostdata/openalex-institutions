@@ -1,0 +1,113 @@
+{
+ "columns": [
+  {
+   "name": "openalex_id",
+   "description": "OpenAlex institution id (I...)."
+  },
+  {
+   "name": "ror_id",
+   "description": "ROR identifier, null if none."
+  },
+  {
+   "name": "name",
+   "description": "Display name."
+  },
+  {
+   "name": "type",
+   "description": "OpenAlex institution type."
+  },
+  {
+   "name": "status",
+   "description": "Record status in OpenAlex."
+  },
+  {
+   "name": "country_code",
+   "description": "ISO 3166-1 alpha-2 country code."
+  },
+  {
+   "name": "country_name",
+   "description": "Country name."
+  },
+  {
+   "name": "region",
+   "description": "Region, null if unknown."
+  },
+  {
+   "name": "city",
+   "description": "City."
+  },
+  {
+   "name": "lat",
+   "type": "number",
+   "description": "Latitude, decimal degrees."
+  },
+  {
+   "name": "lon",
+   "type": "number",
+   "description": "Longitude, decimal degrees."
+  },
+  {
+   "name": "geonames_city_id",
+   "type": "integer",
+   "description": "GeoNames id of the city."
+  },
+  {
+   "name": "homepage_url",
+   "description": "Homepage URL."
+  },
+  {
+   "name": "acronyms",
+   "description": "Acronyms, comma separated."
+  },
+  {
+   "name": "wikidata_id",
+   "description": "Wikidata Q-identifier."
+  },
+  {
+   "name": "grid_id",
+   "description": "Legacy GRID identifier."
+  },
+  {
+   "name": "wikipedia_url",
+   "description": "Wikipedia URL."
+  },
+  {
+   "name": "works_count",
+   "type": "integer",
+   "description": "Number of works affiliated."
+  },
+  {
+   "name": "cited_by_count",
+   "type": "integer",
+   "description": "Citations received by those works."
+  },
+  {
+   "name": "h_index",
+   "type": "integer",
+   "description": "h-index of the institution."
+  },
+  {
+   "name": "i10_index",
+   "type": "integer",
+   "description": "i10-index of the institution."
+  },
+  {
+   "name": "mean_citedness_2yr",
+   "type": "number",
+   "description": "Two-year mean citedness."
+  },
+  {
+   "name": "updated_year",
+   "type": "integer",
+   "description": "Year of the last update of the record."
+  },
+  {
+   "name": "updated_date",
+   "description": "Date of the last update of the record (YYYY-MM-DD)."
+  },
+  {
+   "name": "created_date",
+   "description": "Date the record was created (YYYY-MM-DD)."
+  }
+ ]
+}

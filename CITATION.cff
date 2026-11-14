@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and credit the original source."
+title: "OpenAlex Institutions: 143,455 universities and labs"
+type: dataset
+authors:
+  - family-names: "Bousquet"
+    given-names: "Henri"
+abstract: "Search 143,455 research institutions from OpenAlex (snapshot 2026-10-14): universities, hospitals, companies, funders. Country, city, coordinates, ROR/Wikidata ids, works and citation counts, h-index, update year. CC0. Embedded data, pay per record."
+url: "https://apify.com/phonic_lily/openalex-institutions"
+repository-code: "https://github.com/adminglobalcostdata/openalex-institutions"
+date-released: 2026-11-14
+keywords:
+  - open-data
+  - dataset
+  - json
+  - jsonl
+  - apify
+  - apify-actor
+  - data-api
+  - openalex
